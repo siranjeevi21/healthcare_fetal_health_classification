@@ -1,2 +1,2 @@
 # healthcare_fetal_health_classification
-contributions:Karnika Kapoor
+contributions:Karnika Kapoor, siranjeevi
