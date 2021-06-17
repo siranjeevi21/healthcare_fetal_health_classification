@@ -1,2 +1,2 @@
-# healthcare_fetal_health_classification
+# healthcare_fetal_health_classification_ML_Model
 contributions:Karnika Kapoor, siranjeevi
